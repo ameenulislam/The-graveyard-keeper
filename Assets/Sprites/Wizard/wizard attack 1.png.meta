@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 111f161abc6451e4496e891f9bfb6052
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8027449685082334575
+    second: wizard attack 1_0
+  - first:
+      213: 5784517454567574430
+    second: wizard attack 1_1
+  - first:
+      213: 2995447238349279738
+    second: wizard attack 1_2
+  - first:
+      213: 217015647967000297
+    second: wizard attack 1_3
+  - first:
+      213: -3332883180375655750
+    second: wizard attack 1_4
+  - first:
+      213: 7882544998012557574
+    second: wizard attack 1_5
+  - first:
+      213: -1470459666404457843
+    second: wizard attack 1_6
+  - first:
+      213: -8053568769460031168
+    second: wizard attack 1_7
+  - first:
+      213: 1078863850780894627
+    second: wizard attack 1_8
+  - first:
+      213: -1814305630664459204
+    second: wizard attack 1_9
+  - first:
+      213: 3972955715745419569
+    second: wizard attack 1_10
+  - first:
+      213: -2574428228605044388
+    second: wizard attack 1_11
+  - first:
+      213: 4271082952078542479
+    second: wizard attack 1_12
+  - first:
+      213: 4417202537411798962
+    second: wizard attack 1_13
+  - first:
+      213: 4649258865464505883
+    second: wizard attack 1_14
+  - first:
+      213: 8586121554911136843
+    second: wizard attack 1_15
+  - first:
+      213: 5263007747145247806
+    second: wizard attack 1_16
+  - first:
+      213: 739728307659759932
+    second: wizard attack 1_17
+  - first:
+      213: -6781932115493502788
+    second: wizard attack 1_18
+  - first:
+      213: -6063223312842145119
+    second: wizard attack 1_19
+  - first:
+      213: 5505004924765166402
+    second: wizard attack 1_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard attack 1_0
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1453
+        width: 489
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b770f2b3554f743ba50def166f4183
+      internalID: 8027449685082334575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_1
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1453
+        width: 459
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2f12b49a5de949a2a82de5c665ddf
+      internalID: 5784517454567574430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_2
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1453
+        width: 459
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283c6a2a79c9084ca99f41339b0e10c
+      internalID: 2995447238349279738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_3
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1453
+        width: 489
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eef98d27a07954c867d0b1f0dad3aa
+      internalID: 217015647967000297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_4
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 1483
+        width: 474
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447da56689419b4f8f019ff6342f778
+      internalID: -3332883180375655750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_5
+      rect:
+        serializedVersion: 2
+        x: 6763
+        y: 1483
+        width: 489
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99997fa6f90c14ea44fcad983bb8cb
+      internalID: 7882544998012557574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 203
+        width: 524
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ce3bdcef7f9d41ba0163845f156fb
+      internalID: -2574428228605044388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack 1_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 203
+        width: 489
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e84a0259fd5a94892e08550d4deb60
+      internalID: 4649258865464505883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
